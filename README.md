@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ahmednasrigeo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/12nOsD-joSS4Tu1beF5pcFqgk-P-fxe_-](<a href="https://drive.google.com/file/d/1I7zmj6W5KM3dsQR2ZHvkxpqhJxfx1g2p/view?usp=drive_link" target="_blank">CV</a>)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1I7zmj6W5KM3dsQR2ZHvkxpqhJxfx1g2p/view?usp=drive_link" target="_blank">CV</a>
 
 - ⚡ Fun fact **JavaScript: Making websites interactive since 1995, and developers slightly frustrated ever since.**
 
