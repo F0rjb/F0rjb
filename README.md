@@ -5,13 +5,13 @@
 
 - 👯 I’m forward looking to collaborate on **Front and back end projects**
 
-- 👨‍💻 Some of my projects are available at [https://ahmed-nasri.vercel.app/](https://ahmed-nasri.vercel.app/)
+- 👨‍💻 Some of my projects are available at [My protfolio](https://ahmed-nasri.vercel.app/)
 
 - 💬 Ask me about **NodeJs, Express, NestJs, React, Next**
 
 - 📫 How to reach me **ahmednasrigeo@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1I7zmj6W5KM3dsQR2ZHvkxpqhJxfx1g2p/view?usp=drive_link" target="_blank">CV</a>
+- 📄 Know about my experiences through <a href="https://drive.google.com/file/d/1I7zmj6W5KM3dsQR2ZHvkxpqhJxfx1g2p/view?usp=drive_link" target="_blank">my CV</a>
 
 - ⚡ Fun fact **JavaScript: Making websites interactive since 1995, and developers slightly frustrated ever since.**
 
