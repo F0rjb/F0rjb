@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning Angular
 
 - 👯 I’m forward looking to collaborate on **Front and back end projects**
 
-- 👨‍💻 Some of my projects are available at [My protfolio](https://ahmed-nasri.vercel.app/)
+- 👨‍💻 Some of my projects are available at [My protfolio]((https://ahmed-nasri-gis.vercel.app/))
 
-- 💬 Ask me about **NodeJs, Express, NestJs, React, Next**
+- 💬 Ask me about **NodeJs, Express, NestJs, React, Next, Spring, Angular, JEE**
 
 - 📫 How to reach me **ahmednasrigeo@gmail.com**
 
