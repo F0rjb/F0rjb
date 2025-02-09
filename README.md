@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ahmednasrigeo@gmail.com**
 
-- 📄 Know about my experiences through <a href="https://cvdesignr.com/p/66f7f510b85c2" target="_blank">my CV</a>
+- 📄 Know about my experiences through <a href="[https://cvdesignr.com/p/67a7342a6d3a8?hl=en_GB](https:" target="_blank">my CV</a>
 
 - ⚡ Fun fact **JavaScript: Making websites interactive since 1995, and developers slightly frustrated ever since.**
 
