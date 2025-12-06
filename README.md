@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **NodeJs, Express, NestJs, React, Next, Spring, Angular, JEE**
 
-- 📫 How to reach me **ahmednasrigeo@gmail.com**
+- 📫 How to reach me **ahmednasrigeo@gmail.com** 
 
-- 📄 Know about my experiences through <a href="https://cvdesignr.com/p/67b6df49e35bc" target="_blank">my CV</a>
+- 📄 Know about my experiences through <a href="https://ahmednasri-swe.tiiny.site/" target="_blank">my CV</a>
 
 - ⚡ Fun fact **JavaScript: Making websites interactive since 1995, and developers slightly frustrated ever since.**
 
